@@ -12,6 +12,8 @@ Program ini merupakan sebuah program restoran sederhana yang telah saya buat, pr
 
 Berikut adalah alur dari program restoran sederhana saya yang tidak berlebihan ini
 
+## UML
+![Login](/img/UML.png "Login")
 
 ### LOGIN
 
@@ -56,7 +58,7 @@ Didalam Customer mode, user hanya bisa memesan makanan yang sudah di tambahkan o
 <br>
 
 ## Penutup
-Terima kasih.
+Sekian program restoran saya yang sederhana.terimakasih.
 
 
 
