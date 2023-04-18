@@ -2,10 +2,9 @@ package TugasPBO;
 
 import java.util.Scanner;
 
-public class Main {
+public class login {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("LOGIN");
         System.out.println("1.Admin");
         System.out.println("2.Customer");
@@ -22,4 +21,6 @@ public class Main {
 
         scanner.close();
     }
+
+
 }
